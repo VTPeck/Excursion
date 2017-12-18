@@ -8,3 +8,10 @@ a {
   color: aquamarine;
   font-size: 16px;
 }
+video {
+  align-content: center;
+}
+h4 {
+  color: gray;
+  text-align: right;
+}
